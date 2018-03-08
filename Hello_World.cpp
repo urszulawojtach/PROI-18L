@@ -5,6 +5,6 @@ using namespace std;
 
 void Cpp1 :: printHello()
 {
-    cout<< "Hello World2" <<endl;
+    cout<< "Hello World" <<endl;
 }
 
